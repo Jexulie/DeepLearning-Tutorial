@@ -1,0 +1,4 @@
+**/__pycache__
+**/datasets
+*.hdf5
+*.model
