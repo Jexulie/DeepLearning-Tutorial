@@ -2,3 +2,6 @@
 **/datasets
 *.hdf5
 *.model
+**/downloads
+**/dataset
+**/output
